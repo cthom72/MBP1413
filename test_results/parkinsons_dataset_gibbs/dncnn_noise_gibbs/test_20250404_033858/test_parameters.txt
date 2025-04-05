@@ -1,0 +1,24 @@
+DnCNN Testing Parameters
+========================
+
+data_dir: /cluster/home/t134723uhn/LowFieldMRI/parkinsons_dataset_png
+splits_file: /cluster/home/t134723uhn/LowFieldMRI/parkinsons_dataset_png/splits_All.json
+learning: noise
+model: dncnn
+num_layers: 17
+num_features: 48
+batch_size: 16
+patch_size: 64
+noise_type: gibbs
+seed: 42
+num_workers: 4
+save_dir: /cluster/home/t134723uhn/LowFieldMRI/results/small_dataset_model_v14_dncnn_gibbs
+results_dir: ./test_results/parkinsons_dataset_gibbs
+slice_low: 85
+slice_high: 180
+vis_interval: 20
+
+Hardcoded Noise Parameters:
+  gibbs: [0.6, 0.7, 0.8]
+
+Timestamp: 2025-04-04 03:43:05

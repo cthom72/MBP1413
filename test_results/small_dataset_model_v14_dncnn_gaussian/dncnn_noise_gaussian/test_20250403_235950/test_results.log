@@ -1,0 +1,31 @@
+2025-04-03 23:59:51,001 - Using DnCNN
+2025-04-03 23:59:51,227 - Loading model from /cluster/home/t134723uhn/LowFieldMRI/results/small_dataset_model_v14_dncnn_gaussian/best_model.pth
+2025-04-03 23:59:51,339 - Total parameters: 313344
+2025-04-03 23:59:51,340 - Using specified learning mode: noise
+2025-04-03 23:59:51,357 - Testing with Gaussian noise: σ=10
+2025-04-04 00:00:46,302 - [σ=10] Summary:
+psnr_noisy       29.507576
+psnr_denoised    35.882669
+psnr_gain         6.375093
+ssim_noisy        0.592753
+ssim_denoised     0.955096
+ssim_gain         0.362343
+dtype: float64
+2025-04-04 00:00:49,088 - Testing with Gaussian noise: σ=20
+2025-04-04 00:01:47,663 - [σ=20] Summary:
+psnr_noisy       23.586350
+psnr_denoised    32.363101
+psnr_gain         8.776752
+ssim_noisy        0.407238
+ssim_denoised     0.914649
+ssim_gain         0.507411
+dtype: float64
+2025-04-04 00:01:50,280 - Testing with Gaussian noise: σ=25
+2025-04-04 00:02:53,343 - [σ=25] Summary:
+psnr_noisy       21.690236
+psnr_denoised    31.191539
+psnr_gain         9.501303
+ssim_noisy        0.353638
+ssim_denoised     0.892193
+ssim_gain         0.538555
+dtype: float64

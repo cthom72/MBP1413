@@ -1,0 +1,69 @@
+2025-03-31 13:58:18,082 - Parameters saved to ./results/small_dataset_model_v14_dncnn_gaussian/parameters.txt
+2025-03-31 14:01:54,341 - Total parameters: 313344
+2025-03-31 14:05:02,927 - Epoch [1/50] - Train Loss: 0.212613, Val Loss: 0.002248, Val PSNR: 26.48dB, Time: 2025-03-31 14:05:02
+2025-03-31 14:05:03,114 - Best model saved with Val Loss: 0.002248
+2025-03-31 14:08:09,749 - Epoch [2/50] - Train Loss: 0.001041, Val Loss: 0.000725, Val PSNR: 31.40dB, Time: 2025-03-31 14:08:09
+2025-03-31 14:08:09,845 - Best model saved with Val Loss: 0.000725
+2025-03-31 14:11:16,720 - Epoch [3/50] - Train Loss: 0.000550, Val Loss: 0.000411, Val PSNR: 33.86dB, Time: 2025-03-31 14:11:16
+2025-03-31 14:11:16,852 - Best model saved with Val Loss: 0.000411
+2025-03-31 14:14:23,434 - Epoch [4/50] - Train Loss: 0.001078, Val Loss: 0.001011, Val PSNR: 29.95dB, Time: 2025-03-31 14:14:23
+2025-03-31 14:17:30,270 - Epoch [5/50] - Train Loss: 0.000659, Val Loss: 0.000710, Val PSNR: 31.49dB, Time: 2025-03-31 14:17:30
+2025-03-31 14:20:37,423 - Epoch [6/50] - Train Loss: 0.000396, Val Loss: 0.000312, Val PSNR: 35.05dB, Time: 2025-03-31 14:20:37
+2025-03-31 14:20:37,493 - Best model saved with Val Loss: 0.000312
+2025-03-31 14:23:44,190 - Epoch [7/50] - Train Loss: 0.000363, Val Loss: 0.000244, Val PSNR: 36.13dB, Time: 2025-03-31 14:23:44
+2025-03-31 14:23:44,320 - Best model saved with Val Loss: 0.000244
+2025-03-31 14:26:51,389 - Epoch [8/50] - Train Loss: 0.000361, Val Loss: 0.000238, Val PSNR: 36.23dB, Time: 2025-03-31 14:26:51
+2025-03-31 14:26:51,561 - Best model saved with Val Loss: 0.000238
+2025-03-31 14:29:58,240 - Epoch [9/50] - Train Loss: 0.000446, Val Loss: 0.000341, Val PSNR: 34.68dB, Time: 2025-03-31 14:29:58
+2025-03-31 14:33:04,611 - Epoch [10/50] - Train Loss: 0.000357, Val Loss: 0.000244, Val PSNR: 36.12dB, Time: 2025-03-31 14:33:04
+2025-03-31 14:36:11,408 - Epoch [11/50] - Train Loss: 0.000282, Val Loss: 0.000187, Val PSNR: 37.27dB, Time: 2025-03-31 14:36:11
+2025-03-31 14:36:11,510 - Best model saved with Val Loss: 0.000187
+2025-03-31 14:39:18,081 - Epoch [12/50] - Train Loss: 0.000277, Val Loss: 0.000212, Val PSNR: 36.75dB, Time: 2025-03-31 14:39:18
+2025-03-31 14:42:24,839 - Epoch [13/50] - Train Loss: 0.000274, Val Loss: 0.000197, Val PSNR: 37.05dB, Time: 2025-03-31 14:42:24
+2025-03-31 14:45:31,591 - Epoch [14/50] - Train Loss: 0.000273, Val Loss: 0.000225, Val PSNR: 36.47dB, Time: 2025-03-31 14:45:31
+2025-03-31 14:48:38,431 - Epoch [15/50] - Train Loss: 0.000267, Val Loss: 0.000206, Val PSNR: 36.87dB, Time: 2025-03-31 14:48:38
+2025-03-31 14:51:44,985 - Epoch [16/50] - Train Loss: 0.000241, Val Loss: 0.000194, Val PSNR: 37.13dB, Time: 2025-03-31 14:51:44
+2025-03-31 14:54:51,710 - Epoch [17/50] - Train Loss: 0.000241, Val Loss: 0.000177, Val PSNR: 37.51dB, Time: 2025-03-31 14:54:51
+2025-03-31 14:54:51,838 - Best model saved with Val Loss: 0.000177
+2025-03-31 14:57:58,430 - Epoch [18/50] - Train Loss: 0.000241, Val Loss: 0.000213, Val PSNR: 36.72dB, Time: 2025-03-31 14:57:58
+2025-03-31 15:01:04,641 - Epoch [19/50] - Train Loss: 0.000237, Val Loss: 0.000207, Val PSNR: 36.85dB, Time: 2025-03-31 15:01:04
+2025-03-31 15:04:10,869 - Epoch [20/50] - Train Loss: 0.000240, Val Loss: 0.000177, Val PSNR: 37.51dB, Time: 2025-03-31 15:04:10
+2025-03-31 15:04:10,986 - Best model saved with Val Loss: 0.000177
+2025-03-31 15:07:19,208 - Epoch [21/50] - Train Loss: 0.000224, Val Loss: 0.000168, Val PSNR: 37.74dB, Time: 2025-03-31 15:07:19
+2025-03-31 15:07:19,329 - Best model saved with Val Loss: 0.000168
+2025-03-31 15:10:25,645 - Epoch [22/50] - Train Loss: 0.000226, Val Loss: 0.000173, Val PSNR: 37.61dB, Time: 2025-03-31 15:10:25
+2025-03-31 15:13:31,840 - Epoch [23/50] - Train Loss: 0.000226, Val Loss: 0.000185, Val PSNR: 37.32dB, Time: 2025-03-31 15:13:31
+2025-03-31 15:16:38,114 - Epoch [24/50] - Train Loss: 0.000224, Val Loss: 0.000171, Val PSNR: 37.67dB, Time: 2025-03-31 15:16:38
+2025-03-31 15:19:44,466 - Epoch [25/50] - Train Loss: 0.000224, Val Loss: 0.000169, Val PSNR: 37.72dB, Time: 2025-03-31 15:19:44
+2025-03-31 15:22:51,051 - Epoch [26/50] - Train Loss: 0.000216, Val Loss: 0.000165, Val PSNR: 37.82dB, Time: 2025-03-31 15:22:51
+2025-03-31 15:22:51,189 - Best model saved with Val Loss: 0.000165
+2025-03-31 15:25:57,593 - Epoch [27/50] - Train Loss: 0.000215, Val Loss: 0.000168, Val PSNR: 37.74dB, Time: 2025-03-31 15:25:57
+2025-03-31 15:29:03,984 - Epoch [28/50] - Train Loss: 0.000218, Val Loss: 0.000172, Val PSNR: 37.65dB, Time: 2025-03-31 15:29:03
+2025-03-31 15:32:09,877 - Epoch [29/50] - Train Loss: 0.000215, Val Loss: 0.000167, Val PSNR: 37.77dB, Time: 2025-03-31 15:32:09
+2025-03-31 15:35:16,033 - Epoch [30/50] - Train Loss: 0.000214, Val Loss: 0.000160, Val PSNR: 37.95dB, Time: 2025-03-31 15:35:16
+2025-03-31 15:35:16,136 - Best model saved with Val Loss: 0.000160
+2025-03-31 15:38:22,680 - Epoch [31/50] - Train Loss: 0.000210, Val Loss: 0.000164, Val PSNR: 37.85dB, Time: 2025-03-31 15:38:22
+2025-03-31 15:41:28,891 - Epoch [32/50] - Train Loss: 0.000211, Val Loss: 0.000162, Val PSNR: 37.91dB, Time: 2025-03-31 15:41:28
+2025-03-31 15:44:35,439 - Epoch [33/50] - Train Loss: 0.000211, Val Loss: 0.000167, Val PSNR: 37.76dB, Time: 2025-03-31 15:44:35
+2025-03-31 15:47:41,668 - Epoch [34/50] - Train Loss: 0.000209, Val Loss: 0.000160, Val PSNR: 37.97dB, Time: 2025-03-31 15:47:41
+2025-03-31 15:47:41,794 - Best model saved with Val Loss: 0.000160
+2025-03-31 15:50:47,423 - Epoch [35/50] - Train Loss: 0.000210, Val Loss: 0.000160, Val PSNR: 37.96dB, Time: 2025-03-31 15:50:47
+2025-03-31 15:53:53,483 - Epoch [36/50] - Train Loss: 0.000208, Val Loss: 0.000158, Val PSNR: 38.00dB, Time: 2025-03-31 15:53:53
+2025-03-31 15:53:53,556 - Best model saved with Val Loss: 0.000158
+2025-03-31 15:57:00,447 - Epoch [37/50] - Train Loss: 0.000208, Val Loss: 0.000160, Val PSNR: 37.97dB, Time: 2025-03-31 15:57:00
+2025-03-31 16:00:06,861 - Epoch [38/50] - Train Loss: 0.000208, Val Loss: 0.000159, Val PSNR: 37.97dB, Time: 2025-03-31 16:00:06
+2025-03-31 16:03:13,659 - Epoch [39/50] - Train Loss: 0.000207, Val Loss: 0.000163, Val PSNR: 37.88dB, Time: 2025-03-31 16:03:13
+2025-03-31 16:06:20,167 - Epoch [40/50] - Train Loss: 0.000207, Val Loss: 0.000160, Val PSNR: 37.96dB, Time: 2025-03-31 16:06:20
+2025-03-31 16:09:26,885 - Epoch [41/50] - Train Loss: 0.000208, Val Loss: 0.000156, Val PSNR: 38.06dB, Time: 2025-03-31 16:09:26
+2025-03-31 16:09:26,934 - Best model saved with Val Loss: 0.000156
+2025-03-31 16:12:33,236 - Epoch [42/50] - Train Loss: 0.000206, Val Loss: 0.000158, Val PSNR: 38.01dB, Time: 2025-03-31 16:12:33
+2025-03-31 16:15:39,872 - Epoch [43/50] - Train Loss: 0.000207, Val Loss: 0.000156, Val PSNR: 38.07dB, Time: 2025-03-31 16:15:39
+2025-03-31 16:15:39,930 - Best model saved with Val Loss: 0.000156
+2025-03-31 16:18:46,496 - Epoch [44/50] - Train Loss: 0.000205, Val Loss: 0.000160, Val PSNR: 37.97dB, Time: 2025-03-31 16:18:46
+2025-03-31 16:21:53,144 - Epoch [45/50] - Train Loss: 0.000206, Val Loss: 0.000159, Val PSNR: 37.99dB, Time: 2025-03-31 16:21:53
+2025-03-31 16:24:59,857 - Epoch [46/50] - Train Loss: 0.000206, Val Loss: 0.000163, Val PSNR: 37.89dB, Time: 2025-03-31 16:24:59
+2025-03-31 16:28:06,963 - Epoch [47/50] - Train Loss: 0.000205, Val Loss: 0.000160, Val PSNR: 37.96dB, Time: 2025-03-31 16:28:06
+2025-03-31 16:31:13,648 - Epoch [48/50] - Train Loss: 0.000205, Val Loss: 0.000160, Val PSNR: 37.97dB, Time: 2025-03-31 16:31:13
+2025-03-31 16:34:19,762 - Epoch [49/50] - Train Loss: 0.000205, Val Loss: 0.000158, Val PSNR: 38.02dB, Time: 2025-03-31 16:34:19
+2025-03-31 16:37:26,278 - Epoch [50/50] - Train Loss: 0.000206, Val Loss: 0.000158, Val PSNR: 38.03dB, Time: 2025-03-31 16:37:26
+2025-03-31 16:37:26,601 - Training completed!

@@ -1,0 +1,29 @@
+DnCNN Training Parameters
+========================
+
+data_dir: /cluster/home/t134723uhn/LowFieldMRI/data_v2/split2
+splits_file: /cluster/home/t134723uhn/LowFieldMRI/data_v2/split2/splits_Guys.json
+learning: noise
+noise_type: gaussian
+noise_level: medium
+model: dncnn
+num_layers: 17
+num_features: 64
+batch_size: 128
+epochs: 50
+lr: 0.001
+weight_decay: 0.0001
+lr_milestones: [30]
+lr_gamma: 0.2
+seed: 42
+num_workers: 4
+save_dir: ./results/small_dataset_model_v14_dncnn_original_gaussian
+print_freq: 500
+save_freq: 5
+resume: True
+grad_clipping: True
+early_stopping: False
+augment_data: True
+patch_size: 40
+
+Timestamp: 2025-04-01 12:56:27

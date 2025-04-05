@@ -1,0 +1,31 @@
+2025-04-04 03:38:58,285 - Using DnCNN
+2025-04-04 03:38:58,522 - Loading model from /cluster/home/t134723uhn/LowFieldMRI/results/small_dataset_model_v14_dncnn_gibbs/best_model.pth
+2025-04-04 03:38:58,578 - Total parameters: 313344
+2025-04-04 03:38:58,578 - Using specified learning mode: noise
+2025-04-04 03:38:58,595 - Testing with Gibbs noise: α=0.6
+2025-04-04 03:40:16,474 - [α=0.6] Summary:
+psnr_noisy       30.717477
+psnr_denoised    29.203666
+psnr_gain        -1.513811
+ssim_noisy        0.938706
+ssim_denoised     0.896005
+ssim_gain        -0.042701
+dtype: float64
+2025-04-04 03:40:18,822 - Testing with Gibbs noise: α=0.7
+2025-04-04 03:41:41,247 - [α=0.7] Summary:
+psnr_noisy       28.077388
+psnr_denoised    24.932451
+psnr_gain        -3.144937
+ssim_noisy        0.892218
+ssim_denoised     0.867672
+ssim_gain        -0.024545
+dtype: float64
+2025-04-04 03:41:43,543 - Testing with Gibbs noise: α=0.8
+2025-04-04 03:43:03,275 - [α=0.8] Summary:
+psnr_noisy       24.956834
+psnr_denoised    22.228678
+psnr_gain        -2.728156
+ssim_noisy        0.807274
+ssim_denoised     0.841021
+ssim_gain         0.033747
+dtype: float64

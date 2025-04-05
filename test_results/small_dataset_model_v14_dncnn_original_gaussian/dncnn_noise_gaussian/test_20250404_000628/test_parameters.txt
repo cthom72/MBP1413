@@ -1,0 +1,24 @@
+DnCNN Testing Parameters
+========================
+
+data_dir: /cluster/home/t134723uhn/LowFieldMRI/data_v2/split2
+splits_file: /cluster/home/t134723uhn/LowFieldMRI/data_v2/split2/splits_Guys.json
+learning: noise
+model: dncnn
+num_layers: 17
+num_features: 64
+batch_size: 16
+patch_size: 64
+noise_type: gaussian
+seed: 42
+num_workers: 4
+save_dir: /cluster/home/t134723uhn/LowFieldMRI/results/small_dataset_model_v14_dncnn_original_gaussian
+results_dir: ./test_results/small_dataset_model_v14_dncnn_original_gaussian
+slice_low: 60
+slice_high: 150
+vis_interval: 20
+
+Hardcoded Noise Parameters:
+  gaussian: [10, 20, 25]
+
+Timestamp: 2025-04-04 00:09:38

@@ -1,0 +1,31 @@
+2025-04-04 03:38:17,975 - Using DnCNN
+2025-04-04 03:38:18,178 - Loading model from /cluster/home/t134723uhn/LowFieldMRI/results/small_dataset_model_v14_dncnn_rician/best_model.pth
+2025-04-04 03:38:18,226 - Total parameters: 313344
+2025-04-04 03:38:18,226 - Using specified learning mode: noise
+2025-04-04 03:38:18,243 - Testing with Rician noise: σ=10
+2025-04-04 03:39:30,864 - [σ=10] Summary:
+psnr_noisy       26.951633
+psnr_denoised    35.251464
+psnr_gain         8.299830
+ssim_noisy        0.542376
+ssim_denoised     0.880931
+ssim_gain         0.338555
+dtype: float64
+2025-04-04 03:39:33,112 - Testing with Rician noise: σ=20
+2025-04-04 03:40:51,378 - [σ=20] Summary:
+psnr_noisy       20.756004
+psnr_denoised    30.983102
+psnr_gain        10.227098
+ssim_noisy        0.355940
+ssim_denoised     0.830378
+ssim_gain         0.474438
+dtype: float64
+2025-04-04 03:40:53,965 - Testing with Rician noise: σ=25
+2025-04-04 03:42:13,427 - [σ=25] Summary:
+psnr_noisy       18.779288
+psnr_denoised    29.932797
+psnr_gain        11.153509
+ssim_noisy        0.297522
+ssim_denoised     0.810794
+ssim_gain         0.513272
+dtype: float64
