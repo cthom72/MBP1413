@@ -73,7 +73,7 @@ Epoch [1/50], Batch [60/784], Loss: 0.465735
 
 7. Testing logs can be followed with corresponding SLURM "JOBID" in "logs/test"
 
-8. Testing results are saved at the directory location in 
+8. Testing results are saved at the directory location in /test_results
 
 -------------
 DATA DIRECTORIES
